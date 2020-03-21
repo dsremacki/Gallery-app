@@ -1,3 +1,2 @@
 # Gallery-app
-
-NPM INSTALL 
+npm install

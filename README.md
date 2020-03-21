@@ -1,0 +1,3 @@
+# Gallery-app
+
+NPM INSTALL 
